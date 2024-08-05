@@ -3,7 +3,7 @@ these are the source files of the Remote access trojans(RAT) apk which gives rem
 
 permissions : 
 
-network, all file acess, cameara, phone, message, call logs, location, contacts, microphone, SMS
+network, all file acess, cameara, phone, message, call logs, location, contacts, microphone, SMS.
 
 
 refrence : https://medium.com/@n0mi1k/a-simple-java-reverse-shell-payload-for-android-13-0-tiramisu-and-below-without-using-msfvenom-a72c6e13f33a
